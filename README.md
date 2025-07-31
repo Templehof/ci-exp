@@ -1,1 +1,1 @@
-# ci-exp
+[![say](https://github.com/Templehof/ci-exp/actions/workflows/say.yml/badge.svg)](https://github.com/Templehof/ci-exp/actions/workflows/say.yml)
